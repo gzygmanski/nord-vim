@@ -101,5 +101,6 @@ let g:airline#themes#nord#palette.tabline = {
     \ 'airline_tab':          s:NMiddle,
     \ 'airline_tabsel':       s:IMain,
     \ 'airline_tabfill':      s:NMiddle,
-    \ 'airline_tabmod':       s:NMiddle
+    \ 'airline_tabmod':       s:IMain,
+    \ 'airline_tabtype':      s:NMiddle,
     \ }
