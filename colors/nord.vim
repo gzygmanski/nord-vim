@@ -713,3 +713,7 @@ hi link NeogitDiffDeleteHighlight DiffDelete
 hi link NeogitDiffContextHighlight Normal
 hi link NeogitHunkHeader DiffChange
 hi link NeogitHunkHeaderHighlight DiffChange
+
+" nvim-tree fix
+hi link NvimTreeStatuslineNC StatusLineNc
+hi link NvimTreeStatusline StatusLine
